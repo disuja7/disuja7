@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Deeshu Kr. Pandit.
-- 👀 I’m interested in Data Science field.
-- 🌱 I’m currently learning Data science,ML and AI.
-- 💞️ I’m looking to collaborate on projects related to data science.
-- 📫 How to reach me ...email-deeshukumar7@gmail.com
+🧠 I’m a Data Scientist with 3+ years of experience in building ML models, automating ETL pipelines, and deploying AI solutions in production.
 
-<!---
-disuja7/disuja7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently working at Entitled Solutions Pvt. Ltd., focused on credit risk modeling, document OCR, and cloud-based data engineering using AWS.
+
+📚 Actively contributing to AI education and open-source projects. I love simplifying complex concepts and helping others grow in the data science community.
+
+🤝 Open to collaborating on real-world data science, ML, and AI projects—especially ones that solve meaningful problems.
+
+✉️ Reach me at: deeshukumar7@gmail.com
