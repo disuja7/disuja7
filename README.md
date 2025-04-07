@@ -1,10 +1,11 @@
-Hi there, I'm Deeshu Kumar Pandit! 👋  
-🚀 Data Scientist | ML Engineer | AI Educator  
+#Hi there, I'm Deeshu Kumar Pandit! 👋  
+---
+##🚀 Data Scientist | ML Engineer | AI Educator  
 ![Profile Views](https://komarev.com/ghpvc/?username=disuja7&color=blue)
 
 I’m a passionate Data Scientist with over 3 years of experience building scalable ML models, automating ETL pipelines, and deploying AI-driven solutions. I specialize in Python, SQL, and cloud tools like AWS. I'm also deeply involved in teaching and mentoring budding data scientists.
 
-![Developer Gif](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif)
+![Data Science Gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
 ---
 
@@ -49,13 +50,10 @@ I’m a passionate Data Scientist with over 3 years of experience building scala
 
 ---
 
-### 🏅 Achievements & Certifications  
+### 🏅 Achievements & Awards  
 
 🏆 Patent Filed & Published – Application No. **202331039726**  
 🎖 Hacktoberfest 2022 Contributor – 4 Open Source Contributions  
-📜 Full Stack Data Science Program – **AlmaBetter**  
-🎓 Certified Data Science Professional – **Infosys**  
-💼 Data Analytics & ML Internship – **Pantech Solutions**
 
 ---
 
