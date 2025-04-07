@@ -1,5 +1,4 @@
 # Hi there, I'm Deeshu Kumar Pandit! 👋  
----
 ## 🚀 Data Scientist | ML Engineer | AI Educator  
 ![Profile Views](https://komarev.com/ghpvc/?username=disuja7&color=blue)
 ---
