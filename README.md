@@ -4,8 +4,9 @@
 ---
 I’m a passionate Data Scientist with over 3 years of experience building scalable ML models, automating ETL pipelines, and deploying AI-driven solutions. I specialize in Python, SQL, and cloud tools like AWS. I'm also deeply involved in teaching and mentoring budding data scientists.
 
-  ![Data Science Gif](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600"/>
+</div>
 ---
 
 ### 🔥 About Me  
